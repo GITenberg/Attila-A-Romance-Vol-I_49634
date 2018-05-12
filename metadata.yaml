@@ -1,10 +1,16 @@
 _repo: Attila-A-Romance-Vol-I_49634
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: G. P. R. James (George Payne Rainsford)
     gutenberg_agent_id: '45457'
     url: http://www.gutenberg.org/2009/agents/45457
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49634#Attila-A-Romance-Vol-I
 gutenberg_issued: '2015-08-06'
 gutenberg_type: Text
 identifiers:
